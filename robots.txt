@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vectorcheetahgate.github.io/sitemap.xml
